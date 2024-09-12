@@ -91,7 +91,7 @@ const Contact = () => {
       </div>
 
       <div className="button-container">
-        <a href="mailto:tijan@tijan.dev">
+        <a href="mailto:nangerno@gmail.com">
           <Button
             size="lg"
             rightIcon={<AiOutlineArrowRight />}

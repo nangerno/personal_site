@@ -118,19 +118,19 @@ const Terminal: React.FC = () => {
                 "nangerno@gmail.com:~$ " + previousCommand,
               ]);
               /*if (CommandArea.value === "github") {
-                window.open("https://github.com/0xTijan", "_blank");
+                window.open("https://github.com/nangerno", "_blank");
               }
               else if (CommandArea.value === "twitter") {
                 window.open("https://tijan.dev", "_blank");
               }
               else if (CommandArea.value === "telegram") {
-                window.open("https://github.com/0xTijan/portfolio", "_blank");
+                window.open("https://github.com/nangerno/portfolio", "_blank");
               }
               else if (CommandArea.value === "discord") {
-                window.open("https://github.com/0xTijan/portfolio", "_blank");
+                window.open("https://github.com/nangerno/portfolio", "_blank");
               }
               else if (CommandArea.value === "email") {
-                window.open("https://github.com/0xTijan/portfolio", "_blank");
+                window.open("https://github.com/nangerno/portfolio", "_blank");
               }*/
               CommandArea.value = "";
             }
@@ -270,7 +270,7 @@ const Terminal: React.FC = () => {
                         <li key={index} className="mcq-option">
                           My Discord:{" "}
                           <a
-                            href="https://discord.com/users/775249998379614238"
+                            href="https://discord.com/users/1281680666701860864"
                             rel="noreferrer"
                             target="_blank"
                           >
@@ -323,27 +323,27 @@ const Terminal: React.FC = () => {
                       <br />
                     </div>
                   );
-                } else if (item.match(new RegExp(`\\b${"twitter"}\\b`, "g"))) {
-                  return (
-                    <div className="mcq-wrapper">
-                      <li className="userPrefix" key={index}>
-                        {item}
-                      </li>
-                      <ul id="mcq" className="mcq">
-                        <li key={index} className="mcq-option">
-                          My Twitter:{" "}
-                          <a
-                            href="https://twitter.com/nangerno"
-                            rel="noreferrer"
-                            target="_blank"
-                          >
-                            @nangerno ↗
-                          </a>
-                        </li>
-                      </ul>
-                      <br />
-                    </div>
-                  );
+                  // } else if (item.match(new RegExp(`\\b${"twitter"}\\b`, "g"))) {
+                  //   return (
+                  //     <div className="mcq-wrapper">
+                  //       <li className="userPrefix" key={index}>
+                  //         {item}
+                  //       </li>
+                  //       <ul id="mcq" className="mcq">
+                  //         <li key={index} className="mcq-option">
+                  //           My Twitter:{" "}
+                  //           <a
+                  //             href="https://twitter.com/nangerno"
+                  //             rel="noreferrer"
+                  //             target="_blank"
+                  //           >
+                  //             @nangerno ↗
+                  //           </a>
+                  //         </li>
+                  //       </ul>
+                  //       <br />
+                  //     </div>
+                  //   );
                 } else if (item.match(new RegExp(`\\b${"telegram"}\\b`, "g"))) {
                   return (
                     <div className="mcq-wrapper">
@@ -406,7 +406,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={4}>
                             <a
-                              href="https://discord.com/users/775249998379614238"
+                              href="https://discord.com/users/1281680666701860864"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -677,7 +677,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={10}>
                             <a
-                              href="https://github.com/0xTijan/mobile-wallet"
+                              href="https://github.com/nangerno/mobile-wallet"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -871,7 +871,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://github.com/0xTijan/collaborative-canvas"
+                          href="https://github.com/nangerno/collaborative-canvas"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -900,7 +900,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://github.com/0xTijan/simple-crypto-chat"
+                          href="https://github.com/nangerno/simple-crypto-chat"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -930,7 +930,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://github.com/0xTijan/coin-flip"
+                          href="https://github.com/nangerno/coin-flip"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -958,7 +958,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://github.com/0xTijan/diamond-hands"
+                          href="https://github.com/nangerno/diamond-hands"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -986,7 +986,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://github.com/0xTijan/crypto-tracker"
+                          href="https://github.com/nangerno/crypto-tracker"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -1015,7 +1015,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://github.com/0xTijan/mobile-wallet"
+                          href="https://github.com/nangerno/mobile-wallet"
                           target="_blank"
                           rel="noreferrer"
                         >

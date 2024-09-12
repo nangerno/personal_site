@@ -39,13 +39,17 @@ const Navbar = () => {
       </div>
       <div className="navbarRight">
         <div className="icons">
-          <a href="https://github.com/0xTijan" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/nangerno"
+            target="_blank"
+            rel="noreferrer"
+          >
             <AiFillGithub className="icon" />
           </a>
-          <a href="https://t.me/TijanWeb3" target="_blank" rel="noreferrer">
+          <a href="https://t.me/BlueOceanKing" target="_blank" rel="noreferrer">
             <BsTelegram className="icon" />
           </a>
-          <a href="mailto:tijan@tijan.dev" target="_blank" rel="noreferrer">
+          <a href="mailto:nangerno@gmail.com" target="_blank" rel="noreferrer">
             <AiOutlineMail className="icon" />
           </a>
         </div>
