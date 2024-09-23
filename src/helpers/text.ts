@@ -34,7 +34,7 @@ export const text = {
     aboutIam: "I'am ",
     aboutSkilled: "skilled",
     aboutText:
-      "from Ukraine with 5+ years of experience in blockchain development, enthusiastic about blockchain and web3 industry, constantly seeking opportunities for continuous learning and growth.",
+      "from Ukraine with 7+ years of experience in blockchain development, enthusiastic about blockchain and web3 industry, constantly seeking opportunities for continuous learning and growth.",
 
     // others
     contactButton: "Contact Me",
