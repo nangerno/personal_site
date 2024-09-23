@@ -121,7 +121,7 @@ const Terminal: React.FC = () => {
                 window.open("https://github.com/nangerno", "_blank");
               }
               else if (CommandArea.value === "twitter") {
-                window.open("https://tijan.dev", "_blank");
+                window.open("https://nangerno.dev", "_blank");
               }
               else if (CommandArea.value === "telegram") {
                 window.open("https://github.com/nangerno/portfolio", "_blank");
@@ -274,7 +274,7 @@ const Terminal: React.FC = () => {
                             rel="noreferrer"
                             target="_blank"
                           >
-                            tijan.dev ↗
+                            nangerno ↗
                           </a>
                         </li>
                       </ul>
@@ -295,7 +295,7 @@ const Terminal: React.FC = () => {
                             rel="noreferrer"
                             target="_blank"
                           >
-                            @nangerno ↗
+                            nangerno ↗
                           </a>
                         </li>
                       </ul>
@@ -493,7 +493,7 @@ const Terminal: React.FC = () => {
                       </li>
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://cardix.tijan.dev"
+                          href="https://cardix.nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -529,7 +529,7 @@ const Terminal: React.FC = () => {
                       </li>
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://bananapay.tijan.dev"
+                          href="https://bananapay.nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -565,7 +565,7 @@ const Terminal: React.FC = () => {
                       </li>
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://bananapay.tijan.dev"
+                          href="https://bananapay.nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -587,7 +587,7 @@ const Terminal: React.FC = () => {
                         <ul id="mcq" className="mcq">
                           <li className="mcq-option" tabIndex={0}>
                             <a
-                              href="https://cardix.tijan.dev/"
+                              href="https://cardix.nangerno.dev/"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -596,7 +596,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={1}>
                             <a
-                              href="https://bananapay.tijan.dev/"
+                              href="https://bananapay.nangerno.dev/"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -605,7 +605,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={2}>
                             <a
-                              href="https://bullfolio.tijan.dev/"
+                              href="https://bullfolio.nangerno.dev/"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -623,7 +623,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={4}>
                             <a
-                              href="https://tijan.dev"
+                              href="https://nangerno"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -632,7 +632,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={5}>
                             <a
-                              href="https://projects.tijan.dev/whiteboard"
+                              href="https://projects.nangerno.dev/whiteboard"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -641,7 +641,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={6}>
                             <a
-                              href="https://projects.tijan.dev/simple-chat"
+                              href="https://projects.nangerno.dev/simple-chat"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -650,7 +650,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={7}>
                             <a
-                              href="https://projects.tijan.dev/coin-flip"
+                              href="https://projects.nangerno.dev/coin-flip"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -659,7 +659,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={8}>
                             <a
-                              href="https://projects.tijan.dev/diamond-hands"
+                              href="https://projects.nangerno.dev/diamond-hands"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -668,7 +668,7 @@ const Terminal: React.FC = () => {
                           </li>
                           <li className="mcq-option" tabIndex={9}>
                             <a
-                              href="https://projects.tijan.dev/crypto-tracker"
+                              href="https://projects.nangerno.dev/crypto-tracker"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -722,7 +722,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://cardix.tijan.dev"
+                          href="https://cardix.nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -754,7 +754,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://bananapay.tijan.dev"
+                          href="https://bananapay.nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -784,7 +784,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://bullfolio.tijan.dev"
+                          href="https://bullfolio.nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -842,7 +842,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://tijan.dev"
+                          href="https://nangerno.dev"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -1044,7 +1044,7 @@ const Terminal: React.FC = () => {
                       <br />
                       <li className="mcq-option" tabIndex={0}>
                         <a
-                          href="https://bananapay-v1.tijan.dev/"
+                          href="https://bananapay-v1.nangenro/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -1065,7 +1065,7 @@ const Terminal: React.FC = () => {
                       </li>
                       <div className="aboutme">
                         <br></br>
-                        Hi, nice to meet you. I'm Tijan, blockchain and web
+                        Hi, nice to meet you. I'm nangerno, blockchain and web
                         developer from Slovenia.
                         <br></br>
                         <br></br>I started programming when I was 13 and have
@@ -1090,8 +1090,8 @@ const Terminal: React.FC = () => {
                       <li className="userPrefix" key={index}>
                         {item}
                       </li>
-                      bash: {item.replace("guest@tijan.dev:~$", "")}: command
-                      not found
+                      bash: {item.replace("guest@nangerno:~$", "")}: command not
+                      found
                       <br />
                       <br />
                     </div>
@@ -1101,7 +1101,7 @@ const Terminal: React.FC = () => {
             </ul>
             {Text3.includes("Access") ? (
               <span className="commands">
-                <span className="userPrefix">guest@tijan.dev:~$</span>{" "}
+                <span className="userPrefix">guest@nangerno:~$</span>{" "}
                 <input
                   type="text"
                   id="command"

@@ -28,7 +28,7 @@ export const projectsEn: Project[] = [
     description:
       "Create your own personalized Gift Cards as NFTs and lock some money into them. Surprise your friends and family!",
     image: Cardix,
-    url: "https://cardix.tijan.dev/",
+    url: "https://cardix.nangerno.dev/",
     github: "",
     technologies: getSkill([
       "React",
@@ -43,7 +43,7 @@ export const projectsEn: Project[] = [
     description:
       "Complete copy of Stripe, but for cryptocurrencies. The most customizable solution for receiving automated recurring payments in cryptocurrencies.",
     image: BananaPay,
-    url: "https://bananapay.tijan.dev/",
+    url: "https://bananapay.nangerno.dev/",
     github: "",
     technologies: getSkill([
       "react",
@@ -60,7 +60,7 @@ export const projectsEn: Project[] = [
     description:
       "Crypto portfolio tracker that allows users to create strategies and alerts based on technical analysis and never miss a move again.",
     image: BullFolio,
-    url: "https://bullfolio.tijan.dev/",
+    url: "https://bullfolio.nangerno.dev/",
     github: "",
     technologies: getSkill(["react", "typescript", "firebase", "css"]),
   },
@@ -82,7 +82,7 @@ export const projectsEn: Project[] = [
     name: "Portfolio",
     description: "Developer portfolio showing my blockchain projects.",
     image: Portfolio,
-    url: "https://tijan.dev/",
+    url: "https://nangerno.dev/",
     github: "https://github.com/nangerno/personalsite",
     technologies: getSkill([
       "react",
@@ -98,7 +98,7 @@ export const projectsEn: Project[] = [
     description:
       "An online collaborative whiteboard app, with private and public rooms for people to chat and draw in real-time. They can also mint NFTs!",
     image: Whiteboard,
-    url: "https://projects.tijan.dev/whiteboard",
+    url: "https://projects.nangerno.dev/whiteboard",
     github: "https://github.com/nangerno/collaborative-canvas",
     technologies: getSkill([
       "react",
@@ -114,7 +114,7 @@ export const projectsEn: Project[] = [
     description:
       "Chat groups with limitations based on your token balances, built in Moralis 7-day challenge.",
     image: SimpleChat,
-    url: "https://projects.tijan.dev/simple-chat",
+    url: "https://projects.nangerno.dev/simple-chat",
     github: "https://github.com/nangerno/simple-crypto-chat",
     technologies: getSkill(["html", "css", "javascript", "moralis"]),
   },
@@ -123,7 +123,7 @@ export const projectsEn: Project[] = [
     description:
       "Multiplayer Coin Flip game using smart contracts and chainlink VRF to determine a winner in decentralized way.",
     image: Coin,
-    url: "https://projects.tijan.dev/coin-flip",
+    url: "https://projects.nangerno.dev/coin-flip",
     github: "https://github.com/nangerno/coin-flip",
     technologies: getSkill([
       "react",
@@ -139,7 +139,7 @@ export const projectsEn: Project[] = [
     description:
       "Funny blockchain game that prevents you to panic sell your cryptos by locking them in smart contract.",
     image: Diamond,
-    url: "https://projects.tijan.dev/diamond-hands",
+    url: "https://projects.nangerno.dev/diamond-hands",
     github: "https://github.com/nangerno/diamond-hands",
     technologies: getSkill([
       "solidity",
@@ -154,7 +154,7 @@ export const projectsEn: Project[] = [
     description:
       "Users can see all statistics about top 250 cryptos and create their own personal portfolio.",
     image: Crypto,
-    url: "https://projects.tijan.dev/crypto-tracker",
+    url: "https://projects.nangerno.dev/crypto-tracker",
     github: "https://github.com/nangerno/crypto-tracker",
     technologies: getSkill([
       "react",
@@ -186,7 +186,7 @@ export const projectsEn: Project[] = [
     description:
       "A payment system for receiving recurring payments in cryptocurrencies. (first version)",
     image: BananaPayV1,
-    url: "https://bananapay-v1.tijan.dev/",
+    url: "https://bananapay-v1.nangerno.dev/",
     github: "",
     technologies: getSkill([
       "react",
@@ -205,8 +205,8 @@ export const projectsSl: Project[] = [
     description:
       "Ustvarite svoje prilagojene darilne kartice v obliki NFT-ja in v njih zaklenite nekaj žetonov. Presenetite svoje prijatelje in družino!",
     image: Cardix,
-    url: "https://cardix.tijan.dev/",
-    github: "https://cardix.tijan.dev/",
+    url: "https://cardix.nangerno.dev/",
+    github: "https://cardix.nangerno.dev/",
     technologies: getSkill([
       "React",
       "chianlink",
@@ -220,7 +220,7 @@ export const projectsSl: Project[] = [
     description:
       "Celostna kopija plačilnega sistema Stripe, vendar za kripto valute. Najbolj prilagodljiva rešitev za prejemanje avtomatiziranih ponavljajočih se plačil v kriptovalutah.",
     image: BananaPay,
-    url: "https://bananapay.tijan.dev/",
+    url: "https://bananapay.nangerno.dev/",
     github: "",
     technologies: getSkill([
       "react",
@@ -237,7 +237,7 @@ export const projectsSl: Project[] = [
     description:
       "Sledilnik kripto portfelja, ki uporabnikom omogoča ustvarjanje strategij in opozoril na podlagi tehnične analize in jim omogoča, da nikoli več ne zamudijo premika na trgu.",
     image: BullFolio,
-    url: "https://bullfolio.tijan.dev/",
+    url: "https://bullfolio.nangerno.dev/",
     github: "",
     technologies: getSkill(["react", "typescript", "firebase", "css"]),
   },
@@ -260,7 +260,7 @@ export const projectsSl: Project[] = [
     description:
       "Osebna stran, ki prikazuje moje blockhain projekte in dosežke.",
     image: Portfolio,
-    url: "https://tijan.dev/",
+    url: "https://nangerno.dev/",
     github: "https://github.com/nangerno/portfolio",
     technologies: getSkill([
       "react",
@@ -276,7 +276,7 @@ export const projectsSl: Project[] = [
     description:
       "Spletna sodelovalna aplikacija z zasebnimi ter javnimi sobami za klepet in risanje po beli tabli v realnem času. Lahko tudi minta NFT-je!",
     image: Whiteboard,
-    url: "https://projects.tijan.dev/whiteboard",
+    url: "https://projects.nangerno.dev/whiteboard",
     github: "https://github.com/nangerno/collaborative-canvas",
     technologies: getSkill([
       "react",
@@ -292,7 +292,7 @@ export const projectsSl: Project[] = [
     description:
       "Skupine za klepet z omejitvami na podlagi stanja uporabnikovih tokenov ('token-gating'), narejeno v 7-dnevnem Moralis izzivu.",
     image: SimpleChat,
-    url: "https://projects.tijan.dev/simple-chat",
+    url: "https://projects.nangerno.dev/simple-chat",
     github: "https://github.com/nangerno/simple-crypto-chat",
     technologies: getSkill(["html", "css", "javascript", "moralis"]),
   },
@@ -301,7 +301,7 @@ export const projectsSl: Project[] = [
     description:
       "Igra met kovanca za več igralcev, ki uporablja pametne pogodbe in Chainlink VRF za določitev zmagovalca na decentraliziran način.",
     image: Coin,
-    url: "https://projects.tijan.dev/coin-flip",
+    url: "https://projects.nangerno.dev/coin-flip",
     github: "https://github.com/nangerno/coin-flip",
     technologies: getSkill([
       "react",
@@ -317,7 +317,7 @@ export const projectsSl: Project[] = [
     description:
       "Zabaven blockchain aplikacija, ki vam prepreči panično prodajo kriptovalut tako, da jih zaklenete v pametno pogodbo.",
     image: Diamond,
-    url: "https://projects.tijan.dev/diamond-hands",
+    url: "https://projects.nangerno.dev/diamond-hands",
     github: "https://github.com/nangerno/diamond-hands",
     technologies: getSkill([
       "solidity",
@@ -332,7 +332,7 @@ export const projectsSl: Project[] = [
     description:
       "Uporabniki si lahko ogledajo vse statistike o 250 najboljših kriptovalutah in ustvarijo svoj osebni portfelj.",
     image: Crypto,
-    url: "https://projects.tijan.dev/crypto-tracker",
+    url: "https://projects.nangerno.dev/crypto-tracker",
     github: "https://github.com/nangerno/crypto-tracker",
     technologies: getSkill([
       "react",
@@ -364,7 +364,7 @@ export const projectsSl: Project[] = [
     description:
       "Plačilni sistem za prejemanje ponavljajočih se plačil v kriptovalutah. (prva verzija)",
     image: BananaPayV1,
-    url: "https://bananapay-v1.tijan.dev/",
+    url: "https://bananapay-v1.nangerno.dev/",
     github: "",
     technologies: getSkill([
       "react",
