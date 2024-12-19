@@ -1,7 +1,9 @@
 @import url("./../../App.css");
 
 .bg {
-  background-color: var(--dark-bg);
+  /* background-color: var(--dark-bg); */
+  background-image: url('../../../public/background.jpg');
+  background-size: cover;
   min-height: 100vh;
   color: var(--text-white);
 }
